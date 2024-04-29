@@ -1,0 +1,11 @@
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bal.dll
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bal.pdb
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bo.dll
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.dal.dll
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.bo.pdb
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\bin\Debug\pe.com.tiendita.dal.pdb
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.AssemblyReference.cache
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.csproj.CoreCompileInputs.cache
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\obj\Debug\pe.com.t.1E376958.Up2Date
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.dll
+C:\Users\fuerz\OneDrive\Desktop\.net\laboratorio01\Solution1\pe.com.tiendita.bal\obj\Debug\pe.com.tiendita.bal.pdb
